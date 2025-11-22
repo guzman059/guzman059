@@ -10,6 +10,3 @@
   
   ##
  
-<div> 
-  <a href="https://www.instagram.com/guhsyxr?igsh=MWZwdnZwOG90eHkzaA%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
